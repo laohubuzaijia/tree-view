@@ -54,3 +54,4 @@ installing a package that provides an `atom.file-icons` service.
 
 The `atom.file-icons` service must provide the following methods:
 * `iconClassForPath(path)` - Returns a CSS class name to add to the file view.
+#1
